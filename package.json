@@ -1,0 +1,34 @@
+{
+  "name": "flow",
+  "version": "0.0.1",
+  "description": "Provides Monoids for functional control flow in the Nodejs/Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/ || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikasg7/task.git"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "fp",
+    "monoid",
+    "monad",
+    "functor",
+    "javascript",
+    "nodejs",
+    "map"
+  ],
+  "author": "Vikas Gautam <v33vikasgautam@gmail.com> (http://mytrikks.blogspot.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vikasg7/task/issues"
+  },
+  "homepage": "https://github.com/Vikasg7/task#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
